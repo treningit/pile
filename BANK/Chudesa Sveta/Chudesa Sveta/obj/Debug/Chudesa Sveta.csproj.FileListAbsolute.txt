@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Chudesa Sveta\Chudesa Sveta\bin\Debug\Chudesa Sveta.exe.config
+F:\Новая папка\BANK\Chudesa Sveta\Chudesa Sveta\bin\Debug\Chudesa Sveta.exe
+F:\Новая папка\BANK\Chudesa Sveta\Chudesa Sveta\bin\Debug\Chudesa Sveta.pdb
+F:\Новая папка\BANK\Chudesa Sveta\Chudesa Sveta\obj\Debug\Chudesa Sveta.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Chudesa Sveta\Chudesa Sveta\obj\Debug\Chudesa Sveta.exe
+F:\Новая папка\BANK\Chudesa Sveta\Chudesa Sveta\obj\Debug\Chudesa Sveta.pdb

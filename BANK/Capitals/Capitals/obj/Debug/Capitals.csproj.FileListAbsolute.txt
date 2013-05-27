@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Capitals\Capitals\bin\Debug\Capitals.exe.config
+F:\Новая папка\BANK\Capitals\Capitals\bin\Debug\Capitals.exe
+F:\Новая папка\BANK\Capitals\Capitals\bin\Debug\Capitals.pdb
+F:\Новая папка\BANK\Capitals\Capitals\obj\Debug\Capitals.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Capitals\Capitals\obj\Debug\Capitals.exe
+F:\Новая папка\BANK\Capitals\Capitals\obj\Debug\Capitals.pdb
