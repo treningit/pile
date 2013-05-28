@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\KomplexNumber\KomplexNumber\bin\Debug\KomplexNumber.exe.config
+F:\Новая папка\BANK\KomplexNumber\KomplexNumber\obj\Debug\KomplexNumber.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\KomplexNumber\KomplexNumber\bin\Debug\KomplexNumber.exe
+F:\Новая папка\BANK\KomplexNumber\KomplexNumber\bin\Debug\KomplexNumber.pdb
+F:\Новая папка\BANK\KomplexNumber\KomplexNumber\obj\Debug\KomplexNumber.exe
+F:\Новая папка\BANK\KomplexNumber\KomplexNumber\obj\Debug\KomplexNumber.pdb

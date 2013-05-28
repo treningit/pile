@@ -1,0 +1,5 @@
+F:\Новая папка\BANK\DroBb\DroBb\bin\Debug\DroBb.exe.config
+F:\Новая папка\BANK\DroBb\DroBb\bin\Debug\DroBb.exe
+F:\Новая папка\BANK\DroBb\DroBb\bin\Debug\DroBb.pdb
+F:\Новая папка\BANK\DroBb\DroBb\obj\Debug\DroBb.exe
+F:\Новая папка\BANK\DroBb\DroBb\obj\Debug\DroBb.pdb

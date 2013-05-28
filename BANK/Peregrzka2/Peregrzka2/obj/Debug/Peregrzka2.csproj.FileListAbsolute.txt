@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Peregrzka2\Peregrzka2\bin\Debug\Peregrzka2.exe.config
+F:\Новая папка\BANK\Peregrzka2\Peregrzka2\bin\Debug\Peregrzka2.exe
+F:\Новая папка\BANK\Peregrzka2\Peregrzka2\bin\Debug\Peregrzka2.pdb
+F:\Новая папка\BANK\Peregrzka2\Peregrzka2\obj\Debug\Peregrzka2.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Peregrzka2\Peregrzka2\obj\Debug\Peregrzka2.exe
+F:\Новая папка\BANK\Peregrzka2\Peregrzka2\obj\Debug\Peregrzka2.pdb

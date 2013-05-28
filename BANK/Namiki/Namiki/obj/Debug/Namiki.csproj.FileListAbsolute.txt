@@ -1,0 +1,5 @@
+F:\Новая папка\BANK\Namiki\Namiki\bin\Debug\Namiki.exe.config
+F:\Новая папка\BANK\Namiki\Namiki\bin\Debug\Namiki.exe
+F:\Новая папка\BANK\Namiki\Namiki\bin\Debug\Namiki.pdb
+F:\Новая папка\BANK\Namiki\Namiki\obj\Debug\Namiki.exe
+F:\Новая папка\BANK\Namiki\Namiki\obj\Debug\Namiki.pdb

@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Indeksator\Indeksator\bin\Debug\Indeksator.exe.config
+F:\Новая папка\BANK\Indeksator\Indeksator\obj\Debug\Indeksator.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Indeksator\Indeksator\bin\Debug\Indeksator.exe
+F:\Новая папка\BANK\Indeksator\Indeksator\bin\Debug\Indeksator.pdb
+F:\Новая папка\BANK\Indeksator\Indeksator\obj\Debug\Indeksator.exe
+F:\Новая папка\BANK\Indeksator\Indeksator\obj\Debug\Indeksator.pdb

@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Humm\Humm\bin\Debug\Humm.exe.config
+F:\Новая папка\BANK\Humm\Humm\obj\Debug\Humm.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Humm\Humm\bin\Debug\Humm.exe
+F:\Новая папка\BANK\Humm\Humm\bin\Debug\Humm.pdb
+F:\Новая папка\BANK\Humm\Humm\obj\Debug\Humm.exe
+F:\Новая папка\BANK\Humm\Humm\obj\Debug\Humm.pdb
