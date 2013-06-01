@@ -1,0 +1,9 @@
+F:\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+F:\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+F:\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+F:\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+F:\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+F:\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Documents and Settings\Admin\Рабочий стол\Новая папка\BANK\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

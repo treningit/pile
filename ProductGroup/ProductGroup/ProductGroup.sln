@@ -1,6 +1,11 @@
 ﻿
+<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
+=======
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+>>>>>>> 9f76692f16b9e412820072526aa1f0d9b17befa3
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductGroup", "ProductGroup.csproj", "{15E45E48-7235-4D2C-82FE-742D0E0E567F}"
 EndProject
 Global

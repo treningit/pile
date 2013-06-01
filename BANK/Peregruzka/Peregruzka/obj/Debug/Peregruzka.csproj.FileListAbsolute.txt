@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Peregruzka\Peregruzka\bin\Debug\Peregruzka.exe.config
+F:\Новая папка\BANK\Peregruzka\Peregruzka\bin\Debug\Peregruzka.exe
+F:\Новая папка\BANK\Peregruzka\Peregruzka\bin\Debug\Peregruzka.pdb
+F:\Новая папка\BANK\Peregruzka\Peregruzka\obj\Debug\Peregruzka.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Peregruzka\Peregruzka\obj\Debug\Peregruzka.exe
+F:\Новая папка\BANK\Peregruzka\Peregruzka\obj\Debug\Peregruzka.pdb

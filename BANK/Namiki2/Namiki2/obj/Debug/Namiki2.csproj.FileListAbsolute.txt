@@ -1,0 +1,6 @@
+F:\Новая папка\BANK\Namiki2\Namiki2\bin\Debug\Namiki2.exe.config
+F:\Новая папка\BANK\Namiki2\Namiki2\bin\Debug\Namiki2.exe
+F:\Новая папка\BANK\Namiki2\Namiki2\bin\Debug\Namiki2.pdb
+F:\Новая папка\BANK\Namiki2\Namiki2\obj\Debug\Namiki2.csprojResolveAssemblyReference.cache
+F:\Новая папка\BANK\Namiki2\Namiki2\obj\Debug\Namiki2.exe
+F:\Новая папка\BANK\Namiki2\Namiki2\obj\Debug\Namiki2.pdb
