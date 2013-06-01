@@ -1,0 +1,15 @@
+C:\Users\Cryo\Desktop\LevelUp\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe.config
+C:\Users\Cryo\Desktop\LevelUp\ProductGroup\ProductGroup\obj\Debug\ProductGroup.csprojResolveAssemblyReference.cache
+C:\Users\Cryo\Desktop\LevelUp\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe
+C:\Users\Cryo\Desktop\LevelUp\ProductGroup\ProductGroup\bin\Debug\ProductGroup.pdb
+C:\Users\Cryo\Desktop\LevelUp\ProductGroup\ProductGroup\obj\Debug\ProductGroup.exe
+C:\Users\Cryo\Desktop\LevelUp\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
+C:\Documents and Settings\Admin\Рабочий стол\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\ProductGroup\ProductGroup\obj\Debug\ProductGroup.exe
+C:\Documents and Settings\Admin\Рабочий стол\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
+F:\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe.config
+F:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.exe
+F:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
+G:\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe.config
+G:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.exe
+G:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
