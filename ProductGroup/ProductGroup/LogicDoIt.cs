@@ -2,17 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-<<<<<<< HEAD
 using System.Threading.Tasks;
-=======
-//using System.Threading.Tasks;
->>>>>>> 9f76692f16b9e412820072526aa1f0d9b17befa3
+using System.Threading.Tasks;
 
 namespace ProductGroup
 {
     static class LogicDoIt
     {
-<<<<<<< HEAD
         static List<Danger> d;
         static List<Perishable> p;
         static List<License> l;
@@ -41,7 +37,6 @@ namespace ProductGroup
         }
 
 
-=======
         static List<Danger> d = new List<Danger>();
         static List<Perishable> p = new List<Perishable>();
         static List<License> l = new List<License> ();
@@ -117,7 +112,6 @@ namespace ProductGroup
                 }
             }
         }
->>>>>>> 9f76692f16b9e412820072526aa1f0d9b17befa3
 
         static void Print()
         {

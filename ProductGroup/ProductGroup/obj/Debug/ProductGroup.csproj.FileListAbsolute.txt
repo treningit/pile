@@ -13,3 +13,6 @@ F:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
 G:\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe.config
 G:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.exe
 G:\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
+C:\Users\HP\Desktop\GiT\pile\ProductGroup\ProductGroup\bin\Debug\ProductGroup.exe.config
+C:\Users\HP\Desktop\GiT\pile\ProductGroup\ProductGroup\obj\Debug\ProductGroup.exe
+C:\Users\HP\Desktop\GiT\pile\ProductGroup\ProductGroup\obj\Debug\ProductGroup.pdb
