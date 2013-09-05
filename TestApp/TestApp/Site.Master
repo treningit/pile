@@ -1,0 +1,153 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="TestApp.SiteMaster" %>
+<!DOCTYPE html>
+<html lang="ru">
+<head id="Head1" runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title><%: Page.Title %> — мое приложение ASP.NET</title>
+    <asp:PlaceHolder ID="PlaceHolder1" runat="server">     
+          <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>  
+    <webopt:BundleReference ID="BundleReference1" runat="server" Path="~/Content/Site.css" /> 
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+        <Scripts>
+            <%--Framework Scripts--%>
+            <asp:ScriptReference Name="MsAjaxBundle" />
+            <asp:ScriptReference Name="jquery" />
+            <asp:ScriptReference Name="jquery.ui.combined" />
+            <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+            <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+            <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+            <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+            <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+            <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+            <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+            <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+            <asp:ScriptReference Name="WebFormsBundle" />
+            <%--Site Scripts--%>
+
+        </Scripts>
+    </asp:ScriptManager>
+            <div class="float-left">
+                <p class="site-title" style="float: left">
+                    <a id="A1" runat="server" href="~/">Pades</a></p>
+                <div id="search">
+                    <asp:TextBox ID="inpSearch" runat="server" Width="88px"></asp:TextBox>
+                    
+                </div>
+            </div>
+    <header>
+    </header>
+    <div id="body">
+        <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" >
+            <div id="SectionContent">
+                <div id="Menu">
+                    Menu<br />
+                    <br />&nbsp;<br />
+                    <asp:LinkButton ID="LinkButton2" runat="server" CssClass="LinkBtn" ForeColor="#55B091" Height="30px" Width="96%" OnClick="LinkButton_Click">3M</asp:LinkButton>
+                    <br />
+                    <asp:LinkButton ID="LinkButton3" runat="server" CssClass="LinkBtn" ForeColor="#55B091" Height="30px" Width="96%" OnClick="LinkButton_Click">APP</asp:LinkButton>
+                    <br />
+                    <asp:LinkButton ID="LinkButton4" runat="server" CssClass="LinkBtn" ForeColor="#55B091" Height="30px" Width="96%" OnClick="LinkButton_Click">ATAS</asp:LinkButton>
+                    <br />
+                    <asp:LinkButton ID="LinkButton5" runat="server" CssClass="LinkBtn" ForeColor="#55B091" Height="30px" Width="96%" OnClick="LinkButton_Click">BODY</asp:LinkButton>
+                    <br />
+                </div>
+                <div id="Content">
+                      <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:SiteCatalogConnectionString %>" SelectCommand="SELECT [ProductName], [IDPhoto] FROM [Product] WHERE ([FullDiscription] LIKE '%' + @FullDiscription + '%')">
+                          <SelectParameters>
+                              <asp:ControlParameter ControlID="inpSearch" Name="FullDiscription" PropertyName="Text" Type="String" />
+                          </SelectParameters>
+                </asp:SqlDataSource>
+                    Content
+                    <asp:ListView ID="ListView1" runat="server" DataSourceID="SqlDataSource1">
+                        
+                        <AlternatingItemTemplate>
+                            <span style="background-color: #FAFAD2;color: #284775;">ProductName:
+                            <asp:Label ID="ProductNameLabel" runat="server" Text='<%# Eval("ProductName") %>' />
+                            <br />
+                            IDPhoto:
+                            <asp:Label ID="IDPhotoLabel" runat="server" Text='<%# Eval("IDPhoto") %>' />
+                            <br />
+<br /></span>
+                        </AlternatingItemTemplate>
+                        <EditItemTemplate>
+                            <span style="background-color: #FFCC66;color: #000080;">ProductName:
+                            <asp:TextBox ID="ProductNameTextBox" runat="server" Text='<%# Bind("ProductName") %>' />
+                            <br />
+                            IDPhoto:
+                            <asp:TextBox ID="IDPhotoTextBox" runat="server" Text='<%# Bind("IDPhoto") %>' />
+                            <br />
+                            <asp:Button ID="UpdateButton" runat="server" CommandName="Update" Text="Update" />
+                            <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Cancel" />
+                            <br /><br /></span>
+                        </EditItemTemplate>
+                        <EmptyDataTemplate>
+                            <span>No data was returned.</span>
+                        </EmptyDataTemplate>
+                        <InsertItemTemplate>
+                            <span style="">ProductName:
+                            <asp:TextBox ID="ProductNameTextBox" runat="server" Text='<%# Bind("ProductName") %>' />
+                            <br />IDPhoto:
+                            <asp:TextBox ID="IDPhotoTextBox" runat="server" Text='<%# Bind("IDPhoto") %>' />
+                            <br />
+                            <asp:Button ID="InsertButton" runat="server" CommandName="Insert" Text="Insert" />
+                            <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Clear" />
+                            <br /><br /></span>
+                        </InsertItemTemplate>
+                        <ItemTemplate>
+                            <span style="background-color: #FFFBD6;color: #333333;">ProductName:
+                            <asp:Label ID="ProductNameLabel" runat="server" Text='<%# Eval("ProductName") %>' />
+                            <br />
+                            IDPhoto:
+                            <asp:Label ID="IDPhotoLabel" runat="server" Text='<%# Eval("IDPhoto") %>' />
+                            <br />
+<br /></span>
+                        </ItemTemplate>
+                        <LayoutTemplate>
+                            <div id="itemPlaceholderContainer" runat="server" style="font-family: Verdana, Arial, Helvetica, sans-serif;">
+                                <span runat="server" id="itemPlaceholder" />
+                            </div>
+                            <div style="text-align: center;background-color: #FFCC66;font-family: Verdana, Arial, Helvetica, sans-serif;color: #333333;">
+                            </div>
+                        </LayoutTemplate>
+                        <SelectedItemTemplate>
+                            <span style="background-color: #FFCC66;font-weight: bold;color: #000080;">ProductName:
+                            <asp:Label ID="ProductNameLabel" runat="server" Text='<%# Eval("ProductName") %>' />
+                            <br />
+                            IDPhoto:
+                            <asp:Label ID="IDPhotoLabel" runat="server" Text='<%# Eval("IDPhoto") %>' />
+                            <br />
+<br /></span>
+                        </SelectedItemTemplate>
+                </asp:ListView>
+                </div>
+                <div id="Login">
+                </div>
+                
+              
+            </div>
+        </asp:ContentPlaceHolder>
+        <section class="content-wrapper main-content clear-fix">
+            <asp:ContentPlaceHolder runat="server" ID="MainContent" />
+        </section>
+    </div>
+    
+        
+        
+        <footer>
+
+            <br />
+            <br />
+            <br />
+            Все права защищены
+    </footer>
+    </form>
+</body>
+</html>
