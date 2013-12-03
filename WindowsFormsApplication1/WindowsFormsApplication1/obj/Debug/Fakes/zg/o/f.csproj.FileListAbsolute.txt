@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\b\ZedGraph.Fakes.xml
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\b\ZedGraph.Fakes.dll
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\b\ZedGraph.Fakes.pdb
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\b\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\b\ZedGraph.dll
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\o\f.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\o\ZedGraph.Fakes.dll
+C:\Users\HP\Desktop\GiT\pile\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Fakes\zg\o\ZedGraph.Fakes.pdb
